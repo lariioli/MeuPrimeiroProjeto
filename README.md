@@ -21,7 +21,7 @@ Aqui está o processo de construção do jogo em C#:
 1. **Codificar a lógica do jogo:**
    Como já vimos anteriormente, o código deve capturar a escolha do jogador, gerar uma escolha aleatória do computador e comparar as duas escolhas para determinar o vencedor. Aqui está o código básico de um jogo Pedra, Papel e Tesoura:
 
-   - **using System;**
+   using System;
 
 public class Program
 {
